@@ -1,0 +1,140 @@
+{
+	"veg":[
+		{
+			"soups":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"starters":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Main Course":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Beverages":[{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Salads":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"combos":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			]
+		}
+	],
+	"non_veg":[
+		{
+			"soups":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"starters":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Main Course":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Beverages":[{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"Salads":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			],
+			"combos":[
+				{
+					"veg hot sour soup":"123"
+				},
+				{
+					"veg clear soup": "125"
+				},
+				{
+					"veg sweet corn soup": "120"
+				}
+			]
+		}
+	]
+}

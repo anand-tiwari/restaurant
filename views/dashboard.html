@@ -1,0 +1,23 @@
+<div class="row">
+	<div class="col-md-3 height_100 left_side">
+		<div><img class="img-left" src="image/friendship.jpg"></div>
+		<div class="align_center">
+			<div><button class="btn btn-default" ng-click="logout()">logout</button></div>
+			<div>vahid akhtar</div>
+			<div><button class="btn btn-default" ng-click="addDashboard()">add dashoard</button></div>
+		</div>
+	</div>
+	<div class="col-md-9 height_100 right-side">
+	
+		<div ng-repeat="item in data track by $index" class="col-md-4" ng-click="restaurantDetail(item, $index)">
+			<div class="col-md-12 card row restaurant_card">
+				<div>{{item.restaurentName}}</div>
+				<div> Location : {{item.location}}</div>
+				<div> cuisine : {{item.cuisine}}</div>
+				<div>cost for two : {{item.costForTwo}}</div>
+				<div>Table Count: {{item.tableCount}}</div>
+				<div>{{item.type}}</div>
+			</div>
+		</div>
+	</div>
+</div>

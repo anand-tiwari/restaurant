@@ -1,0 +1,90 @@
+[
+	{ 
+		"restaurentName":"Au Bon Pain", 
+		"icon":"http://mit.edu/birkanu/www/abp-logo.png",
+		"background":"http://mit.edu/birkanu/www/abp.jpg",
+		"location":"238 Main St., Cambridge, MA 02142",
+		"deal":"Free Chocolate Croissant with every Sandwich purchase!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	}, 
+	{ 
+		"restaurentName":"Chipotle Mexican Grill", 
+		"icon":"http://mit.edu/birkanu/www/chipotle-logo.png",
+		"background": "http://mit.edu/birkanu/www/chipotle.jpg",
+		"location":"2 Cambridge Ctr, Cambridge, MA 02412",
+		"deal":"Buy one burrito, get one free!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	}, 
+	{ 
+		"restaurentName":"Starbucks", 
+		"icon":"http://web.mit.edu/birkanu/www/starbucks-logo.png",
+		"background": "http://web.mit.edu/birkanu/www/starbucks.jpg",
+		"location":"6 Cambridge Ctr, Cambridge, MA 02142",
+		"deal":"Free samples of Starbucks Veranda Blend with your next order!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	},
+	{ 
+		"restaurentName":"Legal Sea Foods", 
+		"icon":"http://web.mit.edu/birkanu/www/legal-logo.png",
+		"background": "http://web.mit.edu/birkanu/www/legal.jpeg",
+		"location":"5 Cambridge Ctr, Cambridge, MA 02142",
+		"deal":"25% Off Tuna Steak and Non-Alcoholic Drink!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	},
+	{ 
+		"restaurentName":"Au Bon Pain", 
+		"icon":"http://mit.edu/birkanu/www/abp-logo.png",
+		"background":"http://mit.edu/birkanu/www/abp.jpg",
+		"location":"238 Main St., Cambridge, MA 02142",
+		"deal":"Free Chocolate Croissant with every Sandwich purchase!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	}, 
+	{ 
+		"restaurentName":"Chipotle Mexican Grill", 
+		"icon":"http://mit.edu/birkanu/www/chipotle-logo.png",
+		"background": "http://mit.edu/birkanu/www/chipotle.jpg",
+		"location":"2 Cambridge Ctr, Cambridge, MA 02412",
+		"deal":"Buy one burrito, get one free!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	}, 
+	{ 
+		"restaurentName":"Starbucks", 
+		"icon":"http://web.mit.edu/birkanu/www/starbucks-logo.png",
+		"background": "http://web.mit.edu/birkanu/www/starbucks.jpg",
+		"location":"6 Cambridge Ctr, Cambridge, MA 02142",
+		"deal":"Free samples of Starbucks Veranda Blend with your next order!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	},
+	{ 
+		"restaurentName":"Legal Sea Foods", 
+		"icon":"http://web.mit.edu/birkanu/www/legal-logo.png",
+		"background": "http://web.mit.edu/birkanu/www/legal.jpeg",
+		"location":"5 Cambridge Ctr, Cambridge, MA 02142",
+		"deal":"25% Off Tuna Steak and Non-Alcoholic Drink!",
+		"cuisine":"sea food",
+		"costForTwo":"200",
+		"tableCount":"20",
+		"type":"veg"
+	}
+]
